@@ -1,4 +1,4 @@
-#Getting started
+# Getting started
 
 
 1. install nix
